@@ -3,10 +3,11 @@
 python3 main.py
 ```
 * 改用 python 3
-# 如何產生 requirements.txt
+# 如何產生 requirehttps://github.com/mingderwang/project_python/pullsments.txt
 ```
 pip3 install pandas requests
-pip3 freeze > requirements.txt
+pip3 install pipreqs
+pipreqs  .
 ```
 # 如何使用 requirements.txt
 ```
